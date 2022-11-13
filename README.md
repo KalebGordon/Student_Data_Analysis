@@ -13,3 +13,5 @@ We started with a basic summary statistic of the entire dataset. using the .desc
 <p align="center">
   <img width="" height="" src="Resources/summary_statistics.PNG">
 </p>
+
+From the summary statistics, we can see insights from the entire school district accross all grades. For instance, the average reading score is 72.35 while the average math score is 64.67. From this, we can deduce that the students are more likely to struggle in math than in reading. It may be beneficial to the students if the math curriculum was tweaked or if there was more assistance that the students can take advantage of. We can see that the 75th percentile is at 84 for reading and 76 for math, meaning that 25% of the students achieved a grade equal to or higher than that on their tests. This means that three quarters of the student body received less than a 76 for math, which is about a C. 
